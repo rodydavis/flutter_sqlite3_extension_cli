@@ -1,11 +1,11 @@
 # flutter_sqlite3_extension_cli
 
-## Getting Started 🚀
+## Getting Started
 
 If the CLI application is available on [pub](https://pub.dev), activate globally via:
 
 ```sh
-dart pub global activate flutter_scripts
+dart pub global activate flutter_sqlite3_extension
 ```
 
 Or locally via:

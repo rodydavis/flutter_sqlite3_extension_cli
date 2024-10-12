@@ -1,6 +1,6 @@
 name: flutter_sqlite3_extension
 description: Create a Flutter package for loading a sqlite3 extension
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/rodydavis/flutter_sqlite3_extension_cli
 homepage: https://github.com/rodydavis/flutter_sqlite3_extension_cli
 
